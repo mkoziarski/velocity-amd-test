@@ -1,0 +1,5 @@
+markdown:       kramdown
+
+exclude:        ['Gemfile', 'Gemfile.lock', 'README.md']
+
+port:           4002
